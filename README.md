@@ -73,3 +73,8 @@ Finalmente, puedes ejecutar el proyecto usando el siguiente comando en la raiz d
 ```sh
 dotnet run --project .\Biblioteca.API\
 ```
+
+7. Visualizar funcionamiento
+
+Para visualizar el funcionamiento de la API leer el "API.MD":
+
